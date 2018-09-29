@@ -1,6 +1,6 @@
 # Java Reflection
 
-Projeto criado durante Curso da Alura, para compreender a metaprogramação.
+Projeto criado durante curso da Alura, para compreender a metaprogramação.
 
 Usando a tecnologia que bibliotecas como Hibernate, Spring ou CDI usam por trás dos panos,
 entendendo como a linguagem e seu programa funciona em tempo de execução.
